@@ -1,3 +1,10 @@
+#### Привет, меня зовут Олеся Круглякова
 
-`Python`  `PostgreSQL`  `Exploratory Data Analysis`  `Machine Learning`  `Deep Learning`  `Statistics` `Data Visualization`  `Git`  `PySpark`  `Scraping`
+## Я начинающий Data Scientist
+
+\# open to work
+
+#### Навыки и инструменты
+
+`Python`  `SQL`  `Exploratory Data Analysis` `Statistics`   `Machine Learning`  `Deep Learning`   `Data Visualization`  `Git`  `PySpark`  `Scraping`
 

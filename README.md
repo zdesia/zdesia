@@ -1,12 +1,12 @@
-#### Привет, меня зовут Олеся Круглякова
+#### Hi, I'm Olesia Krugliakova
 
-## Я начинающий Data Scientist
-Здесь вы сможете познакомиться с моими работами 🩶
+### I am an aspiring Data Scientist
+Here you can find some of my projects 🩶
 
 
-#### Навыки и инструменты
+#### Skills and tools
 
-`Python`  `SQL`  `Exploratory Data Analysis` `Statistics`   `Machine Learning`  `Deep Learning`   `Data Visualization`  `Git`  `PySpark`  `Scraping`
+`Python`  `SQL`  `Exploratory Data Analysis` `Statistics`   `Machine Learning`  `Deep Learning`   `Data Visualization`  `Git`    `Scraping`
 
 
 \# open to work

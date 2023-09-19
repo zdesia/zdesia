@@ -6,4 +6,4 @@ Here you can find some of my projects
 
 #### Skills and tools:
 
-`Python`  `SQL`  `Exploratory Data Analysis` `Statistics`   `Machine Learning`  `Deep Learning`   `Data Visualization`  `Git`    `Scraping`
+`Python`  `SQL`  `Exploratory Data Analysis` `Statistics` `Data Mining`  `Machine Learning`  `Deep Learning`   `Data Visualization`  `Git`    `Scraping`

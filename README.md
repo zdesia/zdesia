@@ -1,6 +1,6 @@
-Hello and welcome!
+##### Hello and welcome!
 
-###   Here you can find some of my projects in **Data Analysis** and **Machine Learning**
+### Here you can find some of my projects in **Data Analysis** and **Machine Learning**
 
 
 -  **Programming languages :**  `Python`  `SQL`   

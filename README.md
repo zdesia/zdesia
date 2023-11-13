@@ -3,10 +3,11 @@
 ### My name is Olesia Krugliakova  
 Now I'm actively developing in the field of **Data Analysis** and **Machine Learning**  
 
-- **Programming languages:** `Python`  `SQL`
-- **Tools:** `Jupyter`  `Git`  `Docker`  `DataLens`
-- **Main libraries:** `Pandas` `NumPy` `Matplotlib` `Seaborn` `Scikit-learn` `SkiPy` `PyTorch` `Keras`
 
+- **Programming languages**   <img src="https://github.com/GaakDasha/GaakDasha/blob/main/Python.svg" title="python"/>&nbsp; <img src="https://github.com/GaakDasha/GaakDasha/blob/main/SQL" title="SQL"/>&nbsp; `Python`  `SQL`
+- **Tools** `Jupyter`  `Git`  `Docker`  `DataLens`
+- **Main libraries** `Pandas` `NumPy` `Matplotlib` `Seaborn` `Scikit-learn` `SkiPy` `PyTorch` `Keras`
+---
 
 **You can contact me through**
 <p align="left">
@@ -14,12 +15,22 @@ Now I'm actively developing in the field of **Data Analysis** and **Machine Lear
 <a href="https://t.me/inogdazdes" target="blank"><img align="center" src="https://img.icons8.com/fluency/96/telegram-app.png" alt="inogdazdes" height="30" width="30" /></a>
 <a href="mailto:zdes.krugliakova@gmail.com" target="blank"><img align="center" src="https://img.icons8.com/color/96/gmail-new.png" alt="an.zdes.krugliakova@gmail.com" height="30" width="30" /></a>
 
-
+---
 **Education**
 - 2012 	- Bachelor’s Degree in Engineering, Chemical Technology and Biotechnology, St. Petersburg State University of Cinema and Television
 - 2015	- Master of Science in Chemical Technology, St. Petersburg State University of Cinema and Television
 - 2023	- Data Scientist professional training course, Yandex Practicum
 - 2024	- Deep Learning course, Deep Learning School FPMI of MIPT
+
+---
+
+**Education**
+•  | Degree, School
+--- | --- 
+2012 	| Bachelor’s Degree in Engineering, Chemical Technology and Biotechnology, St. Petersburg State University of Cinema and Television
+2015	| Master of Science in Chemical Technology,  St. Petersburg State University of Cinema and Television
+2023	| Data Scientist professional training course, Yandex Practicum
+2024	| Deep Learning course, Deep Learning School FPMI of MIPT
 
 ---
 

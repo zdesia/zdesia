@@ -2,9 +2,19 @@ Hello and welcome!
 
 Here you can find my projects in **Data Analysis** and **Machine Learning**
 
--  **Programming languages :**  `Python`  `SQL`   
--  **Tools :** `Jupyter`  `Git`  `DataLens`   `Tableau`  
--  **Libraries :** `Pandas` `NumPy` `Matplotlib` `Seaborn` `Scikit-learn` `SkiPy` `PyTorch` `Keras` `BeautifulSoup` `Request` `PySpark`
+-  Programming languages :  `Python`  `SQL`   
+-  Tools : `Jupyter`  `Git`  `DataLens`   `Tableau`  
+-  Libraries : `Pandas` `NumPy` `Matplotlib` `Seaborn` `Scikit-learn` `SkiPy` `PyTorch` `Keras` `BeautifulSoup` `PySpark`
+---
+
+#### Some of my projects
+| **Project** | **Description** | **Status** |
+| -------------------- | :--------------------- |:---------------------------:|
+| [Predictive model for Lenta LLC]() | Проектное участие в кросс-функциональном хакатоне по разработке ML-продукта предсказательной модели для ООО “Лента”. ||
+| [Forecasting of electricity consumption in the region!image]()| GlowByte hackaton |  |
+|[Customer churn analysis and ML forecasting](https://github.com/zdesia/churn-telecom/tree/main)| Analyze customer churn from a telecom company. Develop a machine learning model to predict customer churn in order to retain them with special offers |  |  
+|[Predicting the price of a used car](https://github.com/zdesia/data-competitions/tree/main/auto-price-kaggle)|Kaggle competition Develop a ML-model to predict the price of a car for sale on the secondary market||
+
 
 ---
 
@@ -17,17 +27,9 @@ Here you can find my projects in **Data Analysis** and **Machine Learning**
 
 
 ---
+
 #### Contacts
 <p align="left">
 <a href="https://linkedin.com/in/olesiakrugliakova/" target="blank"><img align="center" src="https://img.icons8.com/color/96/linkedin.png" alt="linkedin.com/in/olesiakrugliakova/" height="30" width="30" /></a>
 <a href="https://t.me/inogdazdes" target="blank"><img align="center" src="https://img.icons8.com/fluency/96/telegram-app.png" alt="inogdazdes" height="30" width="30" /></a>
 <a href="mailto:zdes.krugliakova@gmail.com" target="blank"><img align="center" src="https://img.icons8.com/color/96/gmail-new.png" alt="an.zdes.krugliakova@gmail.com" height="30" width="30" /></a>
-
----
-#### Some of my projects
-| **Project** | **Description** | **Status** |
-| -------------------- | :--------------------- |:---------------------------:|
-| [Predictive model for Lenta LLC]() | Проектное участие в кросс-функциональном хакатоне по разработке ML-продукта предсказательной модели для ООО “Лента”. ||
-| [Forecasting of electricity consumption in the region!image]()| GlowByte hackaton |  |
-| [Machine learning to predict a used car price]() | Kaggle competition |  |
-|[Customer churn analysis and ML forecasting](https://github.com/zdesia/churn-telecom/tree/main)| Analyze customer churn from a telecom company. Develop a machine learning model to predict customer churn in order to retain them with special offers |  |  

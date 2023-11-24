@@ -1,6 +1,8 @@
 Hi,
 
-Here you can find my projects in **Data Analysis**, **Machine Learning**, and **Deep Learning**
+my name is Olesia.
+
+Currently I’m developing my skills in **Data Analysis**, **Machine Learning**, and **Deep Learning**:
 
 
 ‣ Programming languages:  `Python`  `SQL`   
@@ -8,9 +10,9 @@ Here you can find my projects in **Data Analysis**, **Machine Learning**, and **
 ‣ Libraries: `Pandas` `NumPy`  `Scikit-learn` `Statmodels` `SkiPy` `PyTorch` `Keras` `CatBoost` `LightGBM` `Matplotlib` `Seaborn` `BeautifulSoup` `PySpark` 
 
 
----
 
-#### Some of my projects
+#### Here you can find some of my projects:
+
 | **Project** | **Description** | 
 | :-------------------- | :--------------------- |
 |[Product demand forecasting for Lenta](https://github.com/zdesia/data-competitions/tree/main/Lenta%20Hackathon%20Demand%20Forecasting) |Cross-functional ML-product development for Lenta store chain. Forecast model of demand for goods of own production|
@@ -18,11 +20,8 @@ Here you can find my projects in **Data Analysis**, **Machine Learning**, and **
 |[Customer churn analysis and ML forecasting](https://github.com/zdesia/churn-telecom/tree/main)| Analyzing customer churn from a telecom company. ML-model to predict customer churn|
 [Predicting the price of a used car](https://github.com/zdesia/data-competitions/tree/main/auto-price-kaggle) | Model for predicting car price for used car sales service |
 
+#### Feel free to reach me via:
 
----
-
-
-#### Contacts
 <p align="left">
 <a href="https://linkedin.com/in/olesiakrugliakova/" target="blank"><img align="center" src="https://img.icons8.com/color/96/linkedin.png" alt="linkedin.com/in/olesiakrugliakova/" height="30" width="30" /></a>
 <a href="https://t.me/inogdazdes" target="blank"><img align="center" src="https://img.icons8.com/fluency/96/telegram-app.png" alt="inogdazdes" height="30" width="30" /></a>

@@ -1,10 +1,10 @@
 Hello and welcome!
 
-Here you can find my projects in **Data Analysis** and **Machine Learning**
+Here you can find my projects in **Data Analysis**, **Machine Learning**, and **Deep Learning**
 
--  Programming languages :  `Python`  `SQL`   
+-  Programming languages :  `Python`  `SQL` 
 -  Tools : `Jupyter`  `Git`  `Docker` `DataLens`   `Tableau`  
--  Libraries : `Pandas` `NumPy`  `Scikit-learn` `Matplotlib` `Seaborn` `Statmodels` `SkiPy` `PyTorch` `Keras` `BeautifulSoup` `PySpark` 
+-  Libraries : `Pandas` `NumPy`  `Scikit-learn` `Statmodels` `SkiPy` `PyTorch` `Keras` `CatBoost` `LightGBM` `Matplotlib` `Seaborn`  `BeautifulSoup` `PySpark` 
 ---
 
 #### Some of my projects

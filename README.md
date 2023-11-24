@@ -1,4 +1,4 @@
-Hello and welcome!
+Hi,
 
 Here you can find my projects in **Data Analysis**, **Machine Learning**, and **Deep Learning**
 

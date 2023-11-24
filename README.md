@@ -1,13 +1,9 @@
 Hi,
 
-Here you can find my projects in **Data Analysis**, **Machine Learning**, and **Deep Learning**
+Here you can find my some of my projects in **Data Analysis**, **Machine Learning**, and **Deep Learning**
 
--  Programming languages :  `Python`  `SQL` 
--  Tools : `Jupyter`  `Git`  `Docker` `DataLens`   `Tableau`  
--  Libraries : `Pandas` `NumPy`  `Scikit-learn` `Statmodels` `SkiPy` `PyTorch` `Keras` `CatBoost` `LightGBM` `Matplotlib` `Seaborn`  `BeautifulSoup` `PySpark` 
----
 
-#### Some of my projects
+
 | **Project** | **Description** | 
 | :-------------------- | :--------------------- |
 |[Product demand forecasting for Lenta](https://github.com/zdesia/data-competitions/tree/main/Lenta%20Hackathon%20Demand%20Forecasting) |Cross-functional ML-product development for Lenta store chain. Forecast model of demand for goods of own production|
@@ -16,6 +12,11 @@ Here you can find my projects in **Data Analysis**, **Machine Learning**, and **
 [Predicting the price of a used car](https://github.com/zdesia/data-competitions/tree/main/auto-price-kaggle) | Model for predicting car price for used car sales service |
 
 
+---
+
+-  Programming languages :  `Python`  `SQL` 
+-  Tools : `Jupyter`  `Git`  `Docker` `DataLens`   `Tableau`  
+-  Libraries : `Pandas` `NumPy`  `Scikit-learn` `Statmodels` `SkiPy` `PyTorch` `Keras` `CatBoost` `LightGBM` `Matplotlib` `Seaborn`  `BeautifulSoup` `PySpark` 
 ---
 
 #### Contacts

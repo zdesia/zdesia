@@ -10,9 +10,9 @@ Here you can find my projects in **Data Analysis** and **Machine Learning**
 #### Some of my projects
 | **Project** | **Description** | 
 | :-------------------- | :--------------------- |
-|[Product demand forecasting for Lenta](https://github.com/zdesia/data-competitions/tree/main/Lenta%20Hackathon%20Demand%20Forecasting) |Cross-functional ML-product development for Lenta store chain. Forecast model of demand for goods of own production for  14 days|
-|[Forecasting hourly electricity consumption in the region](https://github.com/zdesia/data-competitions/tree/main/GlowByte%20Hackathon%20Electricity%20Consumption%20Forecasting) |  Team development a forecast model of hourly electricity consumption in the Kaliningrad region |
-|[Customer churn analysis and ML forecasting](https://github.com/zdesia/churn-telecom/tree/main)| Analyzing customer churn from a telecom company. Machine learning model to predict customer churn|
+|[Product demand forecasting for Lenta](https://github.com/zdesia/data-competitions/tree/main/Lenta%20Hackathon%20Demand%20Forecasting) |Cross-functional ML-product development for Lenta store chain. Forecast model of demand for goods of own production|
+|[Forecasting electricity consumption in the region](https://github.com/zdesia/data-competitions/tree/main/GlowByte%20Hackathon%20Electricity%20Consumption%20Forecasting) |  Team development a forecast model of hourly electricity consumption in the Kaliningrad region |
+|[Customer churn analysis and ML forecasting](https://github.com/zdesia/churn-telecom/tree/main)| Analyzing customer churn from a telecom company. ML-model to predict customer churn|
 [Predicting the price of a used car](https://github.com/zdesia/data-competitions/tree/main/auto-price-kaggle) | Model for predicting car price for used car sales service |
 
 

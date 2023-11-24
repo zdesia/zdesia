@@ -1,9 +1,16 @@
 Hi,
 
-Here you can find my some of my projects in **Data Analysis**, **Machine Learning**, and **Deep Learning**
+Here you can find my projects in **Data Analysis**, **Machine Learning**, and **Deep Learning**
 
 
+‣ Programming languages:  `Python`  `SQL`   
+‣ Tools: `Jupyter`  `Git`  `Docker` `DataLens`   `Tableau`  
+‣ Libraries: `Pandas` `NumPy`  `Scikit-learn` `Statmodels` `SkiPy` `PyTorch` `Keras` `CatBoost` `LightGBM` `Matplotlib` `Seaborn` `BeautifulSoup` `PySpark` 
 
+
+---
+
+#### Some of my projects
 | **Project** | **Description** | 
 | :-------------------- | :--------------------- |
 |[Product demand forecasting for Lenta](https://github.com/zdesia/data-competitions/tree/main/Lenta%20Hackathon%20Demand%20Forecasting) |Cross-functional ML-product development for Lenta store chain. Forecast model of demand for goods of own production|
@@ -14,10 +21,6 @@ Here you can find my some of my projects in **Data Analysis**, **Machine Learnin
 
 ---
 
--  Programming languages :  `Python`  `SQL` 
--  Tools : `Jupyter`  `Git`  `Docker` `DataLens`   `Tableau`  
--  Libraries : `Pandas` `NumPy`  `Scikit-learn` `Statmodels` `SkiPy` `PyTorch` `Keras` `CatBoost` `LightGBM` `Matplotlib` `Seaborn`  `BeautifulSoup` `PySpark` 
----
 
 #### Contacts
 <p align="left">

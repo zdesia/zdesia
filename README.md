@@ -24,5 +24,3 @@ I’m developing my skills in **Data Analysis**, **Machine Learning**, and **Dee
 
 <p align="left">
 <a href="https://linkedin.com/in/olesiakrugliakova/" target="blank"><img align="center" src="https://img.icons8.com/color/96/linkedin.png" alt="linkedin.com/in/olesiakrugliakova/" height="30" width="30" /></a>
-<a href="https://t.me/inogdazdes" target="blank"><img align="center" src="https://img.icons8.com/fluency/96/telegram-app.png" alt="inogdazdes" height="30" width="30" /></a>
-<a href="mailto:zdes.krugliakova@gmail.com" target="blank"><img align="center" src="https://img.icons8.com/color/96/gmail-new.png" alt="an.zdes.krugliakova@gmail.com" height="30" width="30" /></a>

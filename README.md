@@ -4,9 +4,8 @@ my name is Olesia.
 
 I’m developing my skills in **Data Analysis**, **Machine Learning**, and **Deep Learning**.  
 
-‣ Languages:  `Python`  `SQL`   
-‣ Tools: `Jupyter`  `Git`  `Docker` `Linux`  `Superset`  
-‣ Libraries: `PyTorch` `OpenCV` `Pandas` `NumPy` `Statsmodels` `SciPy`  `Scikit-learn` `CatBoost` `LightGBM` `Matplotlib` `Seaborn` `BeautifulSoup` `Selenium`  `PySpark` 
+My stack:  `Python`  `SQL`  `Jupyter`  `Git`  `Docker` `Linux`      
+Python libraries: `PyTorch` `OpenCV` `Pandas` `NumPy` `Statsmodels` `SciPy`  `Scikit-learn` `CatBoost` `LightGBM` `Matplotlib` `Seaborn` `BeautifulSoup` `Selenium`  `PySpark` 
 
 
 
